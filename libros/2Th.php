@@ -1,0 +1,47 @@
+<div id="2Th_1_1" style="display:none;" class="ver_select"><b>2Th 1:1</b>  Pablo, y Silvano, y Timoteo, a la iglesia de los tesalonicenses en Dios nuestro Padre y en el Señor Jesucristo: </div>
+<div id="2Th_1_2" style="display:none;" class="ver_select"><b>2Th 1:2</b>  Gracia y paz a vosotros, de Dios nuestro Padre y del Señor Jesucristo. </div>
+<div id="2Th_1_3" style="display:none;" class="ver_select"><b>2Th 1:3</b>  Debemos siempre dar gracias a Dios por vosotros, hermanos, como es digno, por cuanto vuestra fe va creciendo sobremanera, y el amor de cada uno de vosotros, abunda más y más de unos para con otros; </div>
+<div id="2Th_1_4" style="display:none;" class="ver_select"><b>2Th 1:4</b>  tanto, que nosotros mismos nos gloriamos de vosotros en las iglesias de Dios, de vuestra paciencia y fe en todas vuestras persecuciones y tribulaciones que sufrís. </div>
+<div id="2Th_1_5" style="display:none;" class="ver_select"><b>2Th 1:5</b>  Lo que es una muestra evidente del justo juicio de Dios, para que seáis tenidos por dignos del reino de Dios, por el cual asimismo padecéis. </div>
+<div id="2Th_1_6" style="display:none;" class="ver_select"><b>2Th 1:6</b>  Porque es justo para con Dios pagar con tribulación a los que os atribulan, </div>
+<div id="2Th_1_7" style="display:none;" class="ver_select"><b>2Th 1:7</b>  y a vosotros, que sois atribulados, daros reposo con nosotros, cuando sea revelado del cielo el Señor Jesús con sus ángeles poderosos, </div>
+<div id="2Th_1_8" style="display:none;" class="ver_select"><b>2Th 1:8</b>  en llama de fuego, para cobrar venganza de los que no conocen a Dios, y no obedecen al evangelio de nuestro Señor Jesucristo; </div>
+<div id="2Th_1_9" style="display:none;" class="ver_select"><b>2Th 1:9</b>  los cuales serán castigados con eterna perdición excluidos de la presencia del Señor, y de la gloria de su poder, </div>
+<div id="2Th_1_10" style="display:none;" class="ver_select"><b>2Th 1:10</b>  cuando viniere para ser glorificado en sus santos, y para ser admirado en aquel día en todos los que creen (porque nuestro testimonio ha sido creído entre vosotros). </div>
+<div id="2Th_1_11" style="display:none;" class="ver_select"><b>2Th 1:11</b>  Por lo cual asimismo oramos siempre por vosotros, que nuestro Dios os tenga por dignos de este llamamiento, y cumpla todo buen deseo de su bondad, y la obra de fe con poder, </div>
+<div id="2Th_1_12" style="display:none;" class="ver_select"><b>2Th 1:12</b>  para que el nombre de nuestro Señor Jesucristo sea glorificado en vosotros, y vosotros en Él, por la gracia de nuestro Dios y del Señor Jesucristo. </div>
+<div id="2Th_2_1" style="display:none;" class="ver_select"><b>2Th 2:1</b>  Os rogamos, pues, hermanos, en cuanto a la venida de nuestro Señor Jesucristo, y nuestra reunión con Él, </div>
+<div id="2Th_2_2" style="display:none;" class="ver_select"><b>2Th 2:2</b>  que no seáis prestamente movidos de vuestro pensar, ni seáis conturbados ni por espíritu, ni por palabra, ni por carta como nuestra, como que el día de Cristo está cerca. </div>
+<div id="2Th_2_3" style="display:none;" class="ver_select"><b>2Th 2:3</b>  Nadie os engañe en ninguna manera; porque no vendrá sin que antes venga la apostasía, y sea revelado el hombre de pecado, el hijo de perdición, </div>
+<div id="2Th_2_4" style="display:none;" class="ver_select"><b>2Th 2:4</b>  el cual se opone y se exalta contra todo lo que se llama Dios o es adorado; tanto que como Dios se sienta en el templo de Dios, haciéndose pasar por Dios. </div>
+<div id="2Th_2_5" style="display:none;" class="ver_select"><b>2Th 2:5</b>  ¿No os acordáis que cuando estaba todavía con vosotros, os decía esto? </div>
+<div id="2Th_2_6" style="display:none;" class="ver_select"><b>2Th 2:6</b>  Y ahora vosotros sabéis lo que lo detiene, para que sea revelado en su tiempo. </div>
+<div id="2Th_2_7" style="display:none;" class="ver_select"><b>2Th 2:7</b>  Porque el misterio de iniquidad ya opera; sólo espera hasta que sea quitado de en medio el que ahora lo detiene. </div>
+<div id="2Th_2_8" style="display:none;" class="ver_select"><b>2Th 2:8</b>  Y entonces será revelado aquel inicuo, al cual el Señor matará con el espíritu de su boca, y destruirá con el resplandor de su venida; </div>
+<div id="2Th_2_9" style="display:none;" class="ver_select"><b>2Th 2:9</b>  aquel inicuo, cuya venida será según la operación de Satanás, con todo poder y señales, y prodigios mentirosos, </div>
+<div id="2Th_2_10" style="display:none;" class="ver_select"><b>2Th 2:10</b>  y con todo engaño de iniquidad en los que perecen; por cuanto no recibieron el amor de la verdad para ser salvos. </div>
+<div id="2Th_2_11" style="display:none;" class="ver_select"><b>2Th 2:11</b>  Y por causa de esto Dios les envía un poder engañoso, para que crean la mentira; </div>
+<div id="2Th_2_12" style="display:none;" class="ver_select"><b>2Th 2:12</b>  para que sean condenados todos los que no creyeron a la verdad, antes se complacieron en la injusticia. </div>
+<div id="2Th_2_13" style="display:none;" class="ver_select"><b>2Th 2:13</b>  Mas nosotros debemos siempre dar gracias a Dios por vosotros, hermanos amados del Señor, de que Dios os haya escogido desde el principio para salvación, por la santificación del Espíritu y la fe en la verdad, </div>
+<div id="2Th_2_14" style="display:none;" class="ver_select"><b>2Th 2:14</b>  a lo cual os llamó por nuestro evangelio, para alcanzar la gloria de nuestro Señor Jesucristo. </div>
+<div id="2Th_2_15" style="display:none;" class="ver_select"><b>2Th 2:15</b>  Así que, hermanos, estad firmes, y retened la doctrina que os ha sido enseñada, sea por palabra, o por carta nuestra. </div>
+<div id="2Th_2_16" style="display:none;" class="ver_select"><b>2Th 2:16</b>  Y el mismo Jesucristo Señor nuestro, y el Dios y Padre nuestro, el cual nos amó, y nos dio consolación eterna, y buena esperanza por gracia, </div>
+<div id="2Th_2_17" style="display:none;" class="ver_select"><b>2Th 2:17</b>  consuele vuestros corazones, y os confirme en toda buena palabra y obra. </div>
+<div id="2Th_3_1" style="display:none;" class="ver_select"><b>2Th 3:1</b>  Finalmente, hermanos, orad por nosotros, para que la palabra del Señor corra y sea glorificada así como entre vosotros; </div>
+<div id="2Th_3_2" style="display:none;" class="ver_select"><b>2Th 3:2</b>  y que seamos librados de hombres malos y perversos; porque no es de todos la fe. </div>
+<div id="2Th_3_3" style="display:none;" class="ver_select"><b>2Th 3:3</b>  Mas fiel es el Señor, que os confirmará y guardará del mal. </div>
+<div id="2Th_3_4" style="display:none;" class="ver_select"><b>2Th 3:4</b>  Y confiamos en el Señor tocante a vosotros, en que hacéis y haréis lo que os hemos mandado. </div>
+<div id="2Th_3_5" style="display:none;" class="ver_select"><b>2Th 3:5</b>  Y el Señor dirija vuestros corazones en el amor de Dios, y en la paciencia de Cristo. </div>
+<div id="2Th_3_6" style="display:none;" class="ver_select"><b>2Th 3:6</b>  Ahora os mandamos, hermanos, en el nombre de nuestro Señor Jesucristo, que os apartéis de todo hermano que anduviere desordenadamente, y no conforme a la doctrina que recibió de nosotros: </div>
+<div id="2Th_3_7" style="display:none;" class="ver_select"><b>2Th 3:7</b>  Porque vosotros mismos sabéis cómo debéis seguir nuestro ejemplo; porque no anduvimos desordenadamente entre vosotros, </div>
+<div id="2Th_3_8" style="display:none;" class="ver_select"><b>2Th 3:8</b>  ni comimos de balde el pan de ninguno; sino que trabajamos con afán y fatiga día y noche, para no ser carga a ninguno de vosotros; </div>
+<div id="2Th_3_9" style="display:none;" class="ver_select"><b>2Th 3:9</b>  no porque no tuviésemos potestad, sino por daros en nosotros un ejemplo a seguir. </div>
+<div id="2Th_3_10" style="display:none;" class="ver_select"><b>2Th 3:10</b>  Porque aun cuando estábamos con vosotros, os mandábamos esto: Si alguno no quiere trabajar, tampoco coma. </div>
+<div id="2Th_3_11" style="display:none;" class="ver_select"><b>2Th 3:11</b>  Porque oímos que hay algunos de entre vosotros que andan desordenadamente, no trabajando en nada, sino ocupados en curiosear. </div>
+<div id="2Th_3_12" style="display:none;" class="ver_select"><b>2Th 3:12</b>  Y a los tales requerimos y exhortamos por nuestro Señor Jesucristo, que trabajando calladamente, coman su propio pan. </div>
+<div id="2Th_3_13" style="display:none;" class="ver_select"><b>2Th 3:13</b>  Y vosotros, hermanos, no os canséis de hacer bien. </div>
+<div id="2Th_3_14" style="display:none;" class="ver_select"><b>2Th 3:14</b>  Y si alguno no obedeciere a nuestra palabra por esta epístola, señalad al tal, y no os juntéis con él, para que se avergüence. </div>
+<div id="2Th_3_15" style="display:none;" class="ver_select"><b>2Th 3:15</b>  Mas no lo tengáis como a enemigo, sino amonestadle como a hermano. </div>
+<div id="2Th_3_16" style="display:none;" class="ver_select"><b>2Th 3:16</b>  Y el mismo Señor de paz os dé siempre paz en toda manera. El Señor sea con todos vosotros. </div>
+<div id="2Th_3_17" style="display:none;" class="ver_select"><b>2Th 3:17</b>  La salutación de mi propia mano, de Pablo, que es mi signo en toda epístola: Así escribo. </div>
+<div id="2Th_3_18" style="display:none;" class="ver_select"><b>2Th 3:18</b>  La gracia de nuestro Señor Jesucristo sea con todos vosotros. Amén. Epístola a los tesalonicenses. Escrita de Atenas por el apóstol Pablo. </div>

@@ -1,0 +1,13 @@
+<div id="2Jn_1_1" style="display:none;" class="ver_select"><b>2Jn 1:1</b>  El anciano a la señora elegida y a sus hijos, a quienes yo amo en la verdad; y no sólo yo, sino también todos los que han conocido la verdad, </div>
+<div id="2Jn_1_2" style="display:none;" class="ver_select"><b>2Jn 1:2</b>  por causa de la verdad que mora en nosotros, y estará para siempre con nosotros. </div>
+<div id="2Jn_1_3" style="display:none;" class="ver_select"><b>2Jn 1:3</b>  Gracia sea con vosotros, misericordia y paz, de Dios Padre y del Señor Jesucristo, Hijo del Padre, en verdad y en amor. </div>
+<div id="2Jn_1_4" style="display:none;" class="ver_select"><b>2Jn 1:4</b>  Mucho me regocijé porque he hallado de tus hijos, que andan en la verdad, tal como nosotros hemos recibido el mandamiento del Padre. </div>
+<div id="2Jn_1_5" style="display:none;" class="ver_select"><b>2Jn 1:5</b>  Y ahora te ruego, señora, no como escribiéndote un mandamiento nuevo, sino aquel que hemos tenido desde el principio, que nos amemos unos a otros. </div>
+<div id="2Jn_1_6" style="display:none;" class="ver_select"><b>2Jn 1:6</b>  Y este es el amor, que andemos según sus mandamientos. Este es el mandamiento: Que andéis en él, como vosotros habéis oído desde el principio. </div>
+<div id="2Jn_1_7" style="display:none;" class="ver_select"><b>2Jn 1:7</b>  Porque muchos engañadores han entrado en el mundo, los cuales no confiesan que Jesucristo ha venido en carne. El que tal hace es engañador y anticristo. </div>
+<div id="2Jn_1_8" style="display:none;" class="ver_select"><b>2Jn 1:8</b>  Mirad por vosotros mismos, para que no perdamos aquello por lo que hemos trabajado, sino que recibamos galardón completo. </div>
+<div id="2Jn_1_9" style="display:none;" class="ver_select"><b>2Jn 1:9</b>  Cualquiera que se rebela, y no persevera en la doctrina de Cristo, no tiene a Dios; el que persevera en la doctrina de Cristo, el tal tiene al Padre y al Hijo. </div>
+<div id="2Jn_1_10" style="display:none;" class="ver_select"><b>2Jn 1:10</b>  Si alguno viene a vosotros y no trae esta doctrina, no lo recibáis en vuestra casa, ni le digáis: Bienvenido. </div>
+<div id="2Jn_1_11" style="display:none;" class="ver_select"><b>2Jn 1:11</b>  Porque el que le dice: Bienvenido, participa de sus malas obras. </div>
+<div id="2Jn_1_12" style="display:none;" class="ver_select"><b>2Jn 1:12</b>  Aunque tengo muchas cosas que escribiros, no he querido hacerlo por medio de papel y tinta; pues espero ir a vosotros y hablar cara a cara, para que nuestro gozo sea cumplido. </div>
+<div id="2Jn_1_13" style="display:none;" class="ver_select"><b>2Jn 1:13</b>  Los hijos de tu hermana elegida te saludan. Amén. </div>
